@@ -18,3 +18,9 @@ This project is an interactive Sales Dashboard developed using Power BI to analy
 * Category and Product Performance
 * Interactive Filters and Slicers
 
+*How to Use
+1. Download the `.pbix` file.
+2. Open it in Power BI Desktop.
+3. Explore the dashboard using filters and slicers.
+
+
