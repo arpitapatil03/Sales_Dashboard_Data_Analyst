@@ -1,26 +1,29 @@
-# Sales_Dashboard_Data_Analyst
-Sales Dashboard – Power BI Project
+ 📊 Sales Data Analysis Dashboard 
 
-	Project Overview
+An interactive Sales Dashboarddeveloped using Power BI to analyze sales performance, profit trends, product performance, payment methods, and category-wise sales. The dashboard transforms raw sales data into meaningful business insights through interactive visualizations, KPIs, and slicers.
 
-This project is an interactive Sales Dashboard developed using Power BI to analyze sales performance, profit trends, and regional insights. The dashboard provides meaningful business insights through data visualization, KPIs, and trend analysis using an Excel dataset.
+📌 Project Overview-
 
-	Tools Used
+This dashboard provides a comprehensive view of sales performance by analyzing products, categories, payment methods, and sales trends. It helps businesses monitor key metrics and make data-driven decisions.
 
-* Power BI Desktop
-* Microsoft Excel
-* Power Query (Data Cleaning & Transformation)
+ 🚀 Features-
 
-	Dashboard Features
+- Interactive Power BI Dashboard
+- KPI Cards (Total Sales, Quantity, Profit, Profit %)
+- Monthly Sales & Profit Analysis
+- Product-wise Sales Analysis
+- Category-wise Sales Distribution
+- Payment Mode Analysis
+- Sales Type Analysis
+- Daily Sales Trend
+- Interactive Filters (Year, Month, Sale Type, Payment Mode)
+-  Dynamic Data Visualizations
 
-* KPI Cards (Sales, Quantity, Profit, Profit %)
-* Monthly Sales Analysis
-* Category and Product Performance
-* Interactive Filters and Slicers
+🛠 Tools & Technologies-
 
-*How to Use
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
-3. Explore the dashboard using filters and slicers.
+- Power BI Desktop
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
 
 
